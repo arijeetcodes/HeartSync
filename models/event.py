@@ -1,0 +1,3 @@
+"""
+Stores birthdays and anniversaries.
+"""

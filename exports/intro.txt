@@ -1,0 +1,6 @@
+Stores exported files.
+
+Later:
+- Relationship_Report.pdf
+- Memories.json
+- Statistics.csv

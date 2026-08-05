@@ -1,0 +1,11 @@
+Stores all persistent data.
+
+Initially:
+database.json
+
+Later:
+- SQLite
+- MySQL
+- PostgreSQL
+
+without changing the rest of the project significantly.

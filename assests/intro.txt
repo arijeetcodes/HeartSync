@@ -1,0 +1,7 @@
+Reserved for future resources.
+
+Eventually:
+- Images
+- Icons
+- Templates
+- Themes

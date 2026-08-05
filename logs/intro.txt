@@ -1,0 +1,10 @@
+Stores application logs.
+
+Example:
+- Login Success
+- Database Loaded
+- Backup Created
+- Memory Added
+- Application Closed
+
+Even if logging is simple initially, having the folder prepared keeps the architecture consistent.
